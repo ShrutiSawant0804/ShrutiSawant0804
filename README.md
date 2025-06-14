@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Sawant</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Frontend Developer from INIDA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutisawant0804" alt="shrutisawant0804" /></a> </p>
 
@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 💬 Ask me about **React, JS, TS, CSS ,HTML, JAVA, DSA**
+- 💬 Ask me about **React, JS, TS, CSS, HTML, JAVA, DSA**
 
 - 📫 How to reach me **sawantshruti0804@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
