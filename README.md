@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shruti Sawant</h1>
-<h3 align="center">A Passionate Frontend Developer from INIDA</h3>
+<h3 align="center">A Passionate Frontend Developer from INDIA</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrutisawant0804" alt="shrutisawant0804" /></a> </p>
 
