@@ -10,9 +10,6 @@
 - 💬 Ask me about **React, JS, TS, CSS, HTML, JAVA, DSA**
 
 - 📫 How to reach me **sawantshruti0804@gmail.com**
-
-- 📫 Linked **https://www.linkedin.com/in/shruti-sawant-s80422/**
-
   
 
 <h3 align="left">Connect with me:</h3>
